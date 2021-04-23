@@ -1,0 +1,32 @@
+16 Aug 2019 10:24:03 GMT: Log 'EclipseCompiler.txt' opened: 16 Aug 2019 10:24:03 GMT with name E:\CSE220\lab\l10\EclipseCompiler.txt
+16 Aug 2019 10:25:34 GMT: diagnostics = javax.tools.DiagnosticCollector@15e69c6
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1de4adf
+fileObjects = [E:\CSE220\lab\l10\Task5_InsertionSortList.java, E:\CSE220\lab\l10\Task6.java, E:\CSE220\lab\l10\Task2.java]
+16 Aug 2019 10:25:34 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@121de8a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\CSE220\lab\l10;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+16 Aug 2019 10:25:36 GMT: Compiler call returned
+16 Aug 2019 10:25:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1229a69
+16 Aug 2019 10:25:36 GMT:  Kind = ERROR
+16 Aug 2019 10:25:36 GMT: Name = E:\CSE220\lab\l10\Task5_InsertionSortList.java LineNo = 5 ColNo = 5 Msg = 'DoublyList cannot be resolved to a type'
+16 Aug 2019 10:25:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ad6f91
+16 Aug 2019 10:25:36 GMT:  Kind = ERROR
+16 Aug 2019 10:25:36 GMT: Name = E:\CSE220\lab\l10\Task5_InsertionSortList.java LineNo = 5 ColNo = 23 Msg = 'DoublyList cannot be resolved to a type'
+16 Aug 2019 10:25:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@97475f
+16 Aug 2019 10:25:36 GMT:  Kind = ERROR
+16 Aug 2019 10:25:36 GMT: Name = E:\CSE220\lab\l10\Task5_InsertionSortList.java LineNo = 11 ColNo = 12 Msg = 'Cannot cast from java.lang.Object to int'
+16 Aug 2019 10:25:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5a96b1
+16 Aug 2019 10:25:36 GMT:  Kind = ERROR
+16 Aug 2019 10:25:36 GMT: Name = E:\CSE220\lab\l10\Task5_InsertionSortList.java LineNo = 11 ColNo = 27 Msg = 'Cannot cast from java.lang.Object to int'
+16 Aug 2019 10:25:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b10884
+16 Aug 2019 10:25:36 GMT:  Kind = ERROR
+16 Aug 2019 10:25:36 GMT: Name = E:\CSE220\lab\l10\Task6.java LineNo = 8 ColNo = 21 Msg = 'The method recursiveBinarySearch(int[], int, int, int) is undefined for the type Task6'
+16 Aug 2019 10:25:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1503a44
+16 Aug 2019 10:25:36 GMT:  Kind = ERROR
+16 Aug 2019 10:25:36 GMT: Name = E:\CSE220\lab\l10\Task6.java LineNo = 10 ColNo = 17 Msg = 'The method recursiveBinarySearch(int[], int, int, int) is undefined for the type Task6'
+16 Aug 2019 10:25:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d72a0e
+16 Aug 2019 10:25:36 GMT:  Kind = ERROR
+16 Aug 2019 10:25:36 GMT: Name = E:\CSE220\lab\l10\Task6.java LineNo = 12 ColNo = 17 Msg = 'The method recursiveBinarySearch(int[], int, int, int) is undefined for the type Task6'
+16 Aug 2019 10:25:48 GMT: diagnostics = javax.tools.DiagnosticCollector@7f9d77
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1a4e5eb
+fileObjects = [E:\CSE220\lab\l10\Task2.java]
+16 Aug 2019 10:25:48 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@17ab182' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\CSE220\lab\l10;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+16 Aug 2019 10:25:48 GMT: Compiler call returned
